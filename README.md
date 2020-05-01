@@ -1,4 +1,4 @@
-# furry-waffle-verilog
+# Verilog
 Verilog is a programming language which is very close to assembly language. It is used to implement functionalities in the areas of computer architecture and embedded systems.
 
 ## Some tips for you:
